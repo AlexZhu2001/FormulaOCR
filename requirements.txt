@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+pix2tex[api]
+fastapi
+latex2mathml==3.76.0
+pycrypto==2.6.1
